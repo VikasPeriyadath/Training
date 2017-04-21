@@ -1,4 +1,4 @@
-Python Training [Topics Covered]:
+# Python Training [Topics Covered]:
 
 Python pros and cons
 Comparison with other languages
